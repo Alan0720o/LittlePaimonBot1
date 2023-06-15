@@ -4,4 +4,6 @@
 安装
 
 安装脚本
+```
 bash < <(curl -sL https://raw.githubusercontent.com/Alan0720o/LittlePaimonBot1/main/paimeng.sh)
+```
